@@ -1,51 +1,75 @@
-# 👩‍💻 Hola, soy Claudia Reyna
+# 👩‍💻 Claudia Reyna | Software Engineer & QA Specialist
 
-Soy Ingeniera de Software con experiencia en desarrollo **Full Stack** y aseguramiento de la calidad (**QA**).  
-Me apasiona diseñar aplicaciones, analizar código y optimizar despliegues con un enfoque en la mejora continua y la experiencia del usuario.  
+<p align="left">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%7C%20QA%20%7C%20Cloud%20%26%20DevOps-007acc?style=for-the-badge" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Location-Lima%2C%20Peru-blue?style=for-the-badge" alt="Location"/>
+  <a href="https://www.linkedin.com/in/claudia-reyna-nina-730a77245/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
-Actualmente estoy fortaleciendo mis competencias en **infraestructura cloud**, **automatización de servidores (Ansible)** y **seguridad de red**, para transicionar hacia entornos **DevOps**.  
+Soy **Ingeniera de Software** enfocada en construir software escalable, mantenible y robusto. Combino el desarrollo **Full Stack** con un riguroso criterio de **Aseguramiento de Calidad (QA)**, lo que me permite diseñar soluciones cuidando tanto la arquitectura de código como la experiencia final de usuario.
 
----
-
-## 🎓 Skills & Learning
-- **Data & BI:** Power BI
-- **Mobile Development:** Dart & Flutter
-- **Agile & Teamwork:** Scrum, Mindset Ágil  
-- **DevOps & Automation:** GitHub Actions, DevOps Fundamentals, Microsoft Copilot Chat  
-- **Databases:** Oracle PL/SQL, Performance Optimization  
-- **Programming:** C++ (profesional), Python, React  
+Actualmente continúo profundizando en **infraestructura Cloud**, **automatización (Ansible, CI/CD)** y **seguridad**, orquestando el ciclo de vida del software con mentalidad **DevOps**.
 
 ---
 
-## 🚀 Proyecto destacado: Alice Automation Ecosystem 🤖🎙️
+## 🛠️ Stack Tecnológico & Herramientas
 
-¡Bienvenido al repositorio de **Alice Automation Ecosystem**!  
-Este proyecto es un ecosistema avanzado de **automatización y asistencia inteligente**, presentado originalmente como ponente en la comunidad **WIE de la Universidad Nacional del Callao (UNAC)**.  
+### 💻 Desarrollo de Software
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-🎯 **Objetivo principal:**  
-Demostrar cómo orquestar **workflows complejos** integrando:  
-- Desarrollo web frontend  
-- Lógica de control en **JavaScript**  
-- Automatización en la nube  
-- Modelos de **Inteligencia Artificial** de última generación  
+### 🧪 Aseguramiento de la Calidad (QA) & Testing
+- **Estrategia & Diseño:** Diseño y ejecución de casos de prueba (Unitarias, Integración, End-to-End, Regresión).
+- **Enfoque de Calidad:** Análisis estático de código, prevención de deuda técnica y trazabilidad de requerimientos.
+- **Herramientas & API Testing:** Postman, Insomnia, validación de contratos API REST y pruebas de carga/funcionales.
 
-🔗 [Ver repositorio en GitHub](https://github.com/ClauReyna/Alice_ecosystem)
+### ☁️ Cloud, DevOps & Automatización
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
-### 🛠️ Tecnologías utilizadas
-- **Frontend:** HTML, CSS, JavaScript  
-- **Automatización:** n8n, APIs REST  
-- **Cloud:** Google 
-- **Inteligencia Artificial:** Modelos LLM integrados  
-
-✨ Este proyecto refleja mi pasión por unir **automatización, IA y experiencia de usuario** en un ecosistema colaborativo y escalable.
-
----
-
-## 🎻 Más sobre mí
-Además de la ingeniería, soy violinista. Creo que la disciplina del arte y la lógica de la ingeniería son la mezcla perfecta para innovar.  
-
-🤝 Me encanta trabajar en equipo, compartir conocimientos y construir soluciones de manera colaborativa.  
+### 🗄️ Bases de Datos & Análisis
+![Oracle](https://img.shields.io/badge/Oracle_PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 ---
 
-📫 Conéctate conmigo en [LinkedIn](https://www.linkedin.com/in/claudia-reyna-nina-730a77245/) o revisa mis repositorios aquí en GitHub.
+## 🚀 Proyectos Destacados
+
+### 🤖 [Alice Automation Ecosystem](https://github.com/ClauReyna/Alice_ecosystem)
+*Ecosistema integral de automatización inteligente y orquestación presentado en comunidades técnicas y académicas.*
+- **Arquitectura:** Orquestación de flujos en n8n integrando frontend interactivo, endpoints REST y modelos LLM.
+- **QA & Confiabilidad:** Manejo robusto de excepciones de API, validación de payloads y monitoreo de respuestas en tiempo real.
+- **Stack:** JavaScript, n8n, Cloud APIs, LLMs.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ClauReyna&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClauReyna&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
+</p>
+
+---
+
+## 🎻 Fuera de la Terminal
+- **Violinista:** La precisión, tempo y oído crítico del violín se trasladan directamente a mi metodología para escribir y depurar código limpio.
+- **Divulgación & Comunidad:** Ponente activa en iniciativas STEM, impulsando la adopción de buenas prácticas de desarrollo e inteligencia artificial aplicada.
+
+---
+
+<p align="center">
+  ¿Quieres colaborar en un proyecto o charlar sobre desarrollo, QA o Cloud?  
+  <br/>
+  <b><a href="https://www.linkedin.com/in/claudia-reyna-nina-730a77245/">Hablemos en LinkedIn</a></b>
+</p>
